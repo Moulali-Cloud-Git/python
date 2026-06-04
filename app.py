@@ -2,7 +2,7 @@
 
 print("Hello, World!")
 
-a = 20
+a = 10
 b = 3
 
 sum_result = a + b
